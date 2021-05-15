@@ -1,0 +1,225 @@
+@media screen and (max-width: 767px) {
+	body {
+		height: 100% !important;
+		width: 100% !important;
+	}
+	.footer-bottom {
+		height: fit-content !important;
+	}
+	.container-fluid .row .social-media .pull-right {
+		float: none !important;
+		text-align: center !important;
+		width: 100% !important;
+		font-size: 80% !important;
+	}
+	.container-fluid .row .social-media .pull-left {
+		float: none !important;
+		width: 100% !important;
+		font-size: 80% !important;
+		text-align: center !important;
+		padding-bottom: 5% !important;
+	}
+	.social-media .pull-left i {
+		position: relative !important;
+	}
+	.container-fluid .row .social-media .pull-right a:first-child {
+		margin-left: 0 !important;
+	}
+	#div-embed-video {
+		margin-top: 0px !important;
+		margin-left: auto !important;
+		padding-top: 5%;
+	}
+	#div-embed-video p {
+		text-align: center !important;
+		width: auto !important;
+		margin-top: 10px;
+	}
+	#div-embed-video h1 {
+		font-size: 20px !important;
+		margin: 0 auto !important;
+		text-align: center;
+	}
+	.titulo-principal {
+		font-size: 26px !important;
+	}
+	.fixed-action-btn {
+		position: fixed !important;
+		right: 5px !important;
+		bottom: 5px !important;
+		padding-top: 5px !important;
+		margin-bottom: 0 !important;
+		z-index: 997 !important;
+		width: auto !important;
+		height: auto !important;
+	}
+	.fixed-action-btn .btn-primary {
+		background-color: #0e5840 !important;
+	}
+	.btn-floating i {
+		color: white !important;
+	}
+	i {
+		color: #0e5840 !important;
+	}
+
+	.fab-cursos {
+		margin: 20px;
+	}
+
+	#coordenador {
+		height: auto !important;
+		width: auto !important;
+		padding: 5% !important;
+		margin-left: 4% !important;
+		margin-right: 4% !important;
+	}
+
+	.curso-desktop {
+		display: none;
+	}
+
+	.curso-mobile {
+		display: initial;
+	}
+
+	.curso-mobile h1, h2, p{
+		padding: 10px;
+	}
+	
+	.curso-mobile .titulo-principal:after {
+		margin-left: 10px;
+	}
+
+	p.pull-right {
+		padding: 5px;
+	}
+
+	.submenu-padrao {
+		background: white !important;
+	}
+
+	.acervo {
+		margin:0 auto !important;
+	}
+
+	.conteudo-biblioteca h1 {
+		padding-left: 10px !important;
+	}
+
+	.colecoes {
+		width: 90% !important;
+		margin: 0 auto;
+		
+	}
+
+	.colecoes p {
+		margin: 0 auto !important;
+	}
+	.navbar-brand {
+		height: auto !important;
+	}
+	.holder-modelo-padrao .row {
+		height: auto !important;
+		margin-left: 10px;
+	}
+	#form-pos {
+		margin-left: 0px !important;
+	}
+	#form-pos input[type=text] {
+		width: 100%;
+	}
+	h1 {
+		font-size: 20px !important;
+	}
+
+	.card-body p {
+		color: gray !important;
+	}
+
+	.card-body li {
+		border-bottom: 1px solid gray;
+	}
+
+	.pull-right {
+		width: 40% !important;
+		height: 10% !important;
+	}
+
+	.btn-link {
+		width: 90% !important; 
+		margin: 0 auto !important;
+		
+	}
+
+	.noticias-home {
+		display: none !important;
+	}
+
+	.index-mobile {
+		display: block !important;
+	}
+
+	.video-index iframe{
+		margin-left: 40px !important;
+		width: 80% !important;
+		height: 300px !important;
+	}
+
+	.banner-mobile {
+		display: block !important;
+		margin: 10px 0 !important;
+	}
+
+	.carousel-mobile {
+		width: 90% !important; 
+		margin: 0 auto !important;
+	}
+	
+	.img-responsive {
+		margin: 0 auto !important;
+		margin-bottom: 20px !important;
+
+	}
+
+	.titulo-form {
+		margin: 0 auto !important;
+		padding: 20px 0 !important;
+	}
+
+	.botao-form {
+		width: 100% !important;
+	}
+
+	.section-pos {
+		margin-left: -12px !important;
+	}
+
+	.section-cursos-livres {
+		margin-left: -10px !important;
+	}
+
+	.section-mestrados {
+		margin-left: -10px !important;
+	}
+
+	.mapa-mobile {
+		width: 90% !important;
+		height: 250px !important;
+		margin: 0 auto;
+	}
+
+	.swiper-desktop {
+		display: none;
+	}
+
+	.cards-mobile {
+		display: block !important;
+	}
+
+	.border-success {
+		border: 1px solid  #07724b !important;
+		margin: 10px auto !important;
+	}
+}
+
